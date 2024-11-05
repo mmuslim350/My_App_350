@@ -1,0 +1,1 @@
+ D:\\Kuliah\\Semester\ 5\\CRUD\\frontend\\.dart_tool\\flutter_build\\7413031600244bf56eec0382851717ac\\native_assets.yaml: 
